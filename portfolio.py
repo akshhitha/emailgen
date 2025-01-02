@@ -1,4 +1,5 @@
 import pandas as pd
+from langchain.vectorstores import Chroma
 import chromadb
 import uuid
 
